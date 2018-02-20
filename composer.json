@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.1.x-dev",
+        "yiisoft/yii2": "2.1.x-dev",
         "imagine/imagine": "~0.6.0"
     },
     "autoload": {
